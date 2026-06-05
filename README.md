@@ -65,7 +65,7 @@ Samples with low or negative contributions are considered suspicious and likely 
 * Removal thresholds:
 
   * Bottom 1%
-  * Bottom 5%
+  * ...
   * Bottom 10%
 
 ### Datasets
