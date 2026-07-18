@@ -1,6 +1,6 @@
 # Mitigating Label Flip Attacks via Data Evaluation
 
-Repository for the Shield AI Workshop 2026 submission.
+Repository for the AGENSYS Workshop 2026 submission.
 
 **Author:** Hong Vy Ngoc Le
 **Affiliation:** Università degli Studi di Milano, Milan, Italy
@@ -21,7 +21,7 @@ Experiments on three standard benchmark datasets under increasing label flip rat
 ## Repository Structure
 
 ```text
-VN_SHIELD_26/
+VN_AGENSYS_ECML_PKDD_26/
 │
 ├── code_shield.ipynb      # Main experimental notebook
 ├── figures_shield.ipynb   # Figure generation and visualization
@@ -137,8 +137,8 @@ If you use this repository in your research, please cite:
   author = {Le, Hong Vy Ngoc},
   title = {Mitigating Label Flip Attacks via Data Evaluation},
   year = {2026},
-  note = {Shield AI Workshop 2026 Submission},
-  url = {https://github.com/Eiravy/VN_SHIELD_26}
+  note = {AGENSYS Workshop 2026 Submission},
+  url = {https://github.com/Eiravy/VN_AGENSYS_ECML_PKDD_26}
 }
 ```
 
@@ -148,7 +148,7 @@ If you use this repository in your research, please cite:
 
 GitHub Repository:
 
-https://github.com/Eiravy/VN_SHIELD_26
+https://github.com/Eiravy/VN_AGENSYS_ECML_PKDD_26
 
 ---
 
